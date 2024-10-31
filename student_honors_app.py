@@ -2,6 +2,7 @@
 # Filename: student_honors_app.py
 # Description: This app accepts student names and GPAs 
 # to determine if the student qualifies for the Dean's List or the Honor Roll.
+# https://github.com/Ernestoghdzmtz/Module-2-Lab---Case-Study-if...else-and-while.git
 
 def main():
     print("Enter 'ZZZ' as the last name to quit.")
